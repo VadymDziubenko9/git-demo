@@ -19,5 +19,6 @@ void main() {
       squareParameters.width * squareParameters.width;
   print(resultOfMultiplication);
   print(squareParameters);
+  print('new commit message');
 }
 

@@ -1,5 +1,3 @@
-
-
 import 'dart:io';
 
 void main(){
@@ -8,4 +6,5 @@ void main(){
   n1 = int.parse(stdin.readLineSync()!);
   stdout.write('Enter second number :');
   n2 = int.parse(stdin.readLineSync()!);
+
 }
