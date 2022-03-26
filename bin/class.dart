@@ -19,6 +19,10 @@ void main() {
       squareParameters.width * squareParameters.width;
   print(resultOfMultiplication);
   print(squareParameters);
+<<<<<<< Updated upstream
   print('new commit message');
+=======
+  print('new message');
+>>>>>>> Stashed changes
 }
 
