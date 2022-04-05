@@ -45,5 +45,6 @@ void main() {
     print(error);
   } catch (error) {
     print(error);
+    print(error);
   }
 }
